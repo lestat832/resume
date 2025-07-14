@@ -107,6 +107,23 @@ li {
     color: #7f8c8d;
 }
 
+/* Volunteer Section */
+.volunteer-item {
+    margin-bottom: 1.5rem;
+}
+
+.volunteer-item h3 {
+    color: #34495e;
+    font-size: 1.2rem;
+    margin-bottom: 0.5rem;
+}
+
+.organization {
+    color: #7f8c8d;
+    font-style: italic;
+    margin-bottom: 0.5rem;
+}
+
 /* Skills Section */
 .skills-grid {
     display: grid;

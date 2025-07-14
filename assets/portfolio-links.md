@@ -1,67 +1,24 @@
-# Portfolio Links
+# Extended Portfolio Links
 
-## 🚀 Featured Projects
+## GitHub Repositories
+- [Starring You AI Breakdown](../starring-you-ai-breakdown) - Deep dive into AI-powered video personalization feature launch
+- [ReadYourStory Case Study](../readyourstory-case-study) - Process automation that drove 134% revenue growth
+- [Face Org Feature Analysis](../face-org-feature-breakdown) - User profile feature improving retention by 28%
+- [UX Onboarding Flows](../onboarding-flows-repo) - User experience design samples across JibJab, Scholly, and StoryBots
+- [JJ Invites Launch](../jj-invites-launch) - Fast-tracked product expansion into online invitations
 
-### [Project Name 1]
-- **Description:** [Brief description of the project]
-- **Technologies:** [Tech stack used]
-- **Link:** [URL to project]
-- **Impact:** [Key metrics or outcomes]
+## External Portfolio Items
+- **Case Study:** AI Product Strategy - [Link to external case study]
+- **Article:** "Data-Driven Product Management in EdTech" - [Link to blog post/article]
+- **Presentation:** Product Leadership Best Practices - [Link to presentation]
 
-### [Project Name 2]
-- **Description:** [Brief description of the project]
-- **Technologies:** [Tech stack used]
-- **Link:** [URL to project]
-- **Impact:** [Key metrics or outcomes]
+## Speaking & Publications
+- **Conference Talk:** "[Title]" at [Event] ([Date])
+- **Article:** "[Title]" in [Publication] ([Date])
+- **Podcast:** "[Episode Title]" on [Podcast Name] ([Date])
 
----
-
-## 📱 Product Launches
-
-### [Product Name 1]
-- **Role:** [Your role in the launch]
-- **Description:** [Brief description]
-- **Outcome:** [Results achieved]
-- **Link:** [URL if available]
-
----
-
-## 📝 Writing & Thought Leadership
-
-### Articles & Blog Posts
-- [Article Title 1] - [Publication] - [URL]
-- [Article Title 2] - [Publication] - [URL]
-
-### Speaking Engagements
-- [Event Name] - [Topic] - [Date]
-- [Event Name] - [Topic] - [Date]
-
----
-
-## 🏆 Awards & Recognition
-
-- [Award Name] - [Organization] - [Year]
-- [Award Name] - [Organization] - [Year]
-
----
-
-## 🔗 Professional Profiles
-
-- **LinkedIn:** [Your LinkedIn URL]
-- **GitHub:** [Your GitHub URL]
-- **Portfolio Website:** [Your website URL]
-- **Twitter/X:** [Your Twitter URL]
-
----
-
-## 📊 Case Studies
-
-### [Case Study 1]
-- **Challenge:** [Problem statement]
-- **Solution:** [Your approach]
-- **Results:** [Quantified outcomes]
-- **Link:** [URL to detailed case study]
-
----
-
-*Portfolio links to be updated with actual projects and URLs*
+## Professional Profiles
+- **LinkedIn:** [Full LinkedIn URL]
+- **GitHub:** [GitHub profile URL]
+- **Portfolio Site:** [Personal website URL]
+- **Medium/Blog:** [Writing platform URL]

@@ -1,42 +1,46 @@
-# Marc Geraldez - Professional Resume
+# Marc Geraldez - Resume
 
-Welcome to my professional resume repository. This repository contains multiple formats of my resume along with portfolio links and references.
+**Current Role:** Product Leader  
+**Location:** Los Angeles, CA  
+**Email:** marc.geraldez@gmail.com  
+**LinkedIn:** [linkedin.com/in/marc-geraldez](https://www.linkedin.com/in/marc-geraldez/)  
+**Phone:** (310) 597-3648
 
-## 📁 Repository Structure
+## Quick Access
+- 📄 **[Download PDF Resume](resume-pdf/marc-geraldez-resume.pdf)**
+- 🌐 **[View Web Version](resume-web/index.html)** (GitHub Pages)
+- 📱 **[Mobile-Friendly Version](resume-markdown/resume.md)**
 
-- **`resume-pdf/`** - PDF versions of my resume
-  - `marc-geraldez-resume.pdf` - Standard version
-  - `marc-geraldez-resume-print.pdf` - Print-optimized version
+## About This Resume
+This repository contains my current resume in multiple formats, optimized for different viewing contexts:
 
-- **`resume-markdown/`** - Markdown version for easy reading on GitHub
-  - `resume.md` - Full resume in markdown format
+- **PDF Version:** Print-ready and ATS-friendly
+- **Web Version:** Interactive with hover effects and responsive design
+- **Markdown Version:** Easy to read on mobile and accessible
 
-- **`resume-web/`** - Web-based interactive resume
-  - `index.html` - Main resume page
-  - `style.css` - Styling
-  - `assets/` - Images and other resources
+*Last Updated: July 2025*
 
-- **`versions/`** - Historical versions of my resume
-  - Archived by date for reference
+## Experience Highlights
+- 🚀 **AI Product Launch:** Launched Starring You AI generating 400K+ user-created packs in 6 months
+- 💡 **Revenue Growth:** Increased ReadYourStory revenue by 101% (Year 1) and 134% (Year 2)
+- 📈 **User Engagement:** Improved renewal rates by 16% (Year 1) and 28% (Year 2) with Face Org feature
 
-- **`assets/`** - Additional resources
-  - `portfolio-links.md` - Links to my portfolio and projects
-  - `references.md` - Professional references (available upon request)
+## Skills Overview
+**Product Management:** Data-driven experimentation, AI-powered features, full product lifecycle management  
+**Leadership:** Cross-functional team alignment, stakeholder management, fast-paced delivery  
+**Industry:** Digital media, EdTech, entertainment, DTC platforms, subscription models
 
-## 👤 About Me
+## Featured Projects
+Links to detailed project breakdowns in other repositories:
+- [Starring You AI Launch](../starring-you-ai-breakdown) - Deep dive into AI-powered video personalization feature
+- [ReadYourStory Revenue Growth](../readyourstory-case-study) - How process automation drove 134% revenue increase
+- [Face Org Feature](../face-org-feature-breakdown) - User profile feature that improved retention by 28%
+- [UX Onboarding Flows](../onboarding-flows-repo) - User experience design samples across platforms
 
-Product Leader with 10+ years experience in digital media, edtech, and entertainment. Specialized in AI-driven features, data experimentation, and revenue growth.
-
-## 📧 Contact
-
-[Your contact information will be added here]
-
-## 🔗 Quick Links
-
-- [View Resume (Markdown)](resume-markdown/resume.md)
-- [Portfolio Links](assets/portfolio-links.md)
-- [Web Resume](resume-web/index.html)
+## Additional Resources
+- 📋 [Extended Portfolio Links](assets/portfolio-links.md)
+- 🤝 [Professional References](assets/references.md)
+- 📚 [Certifications & Education Details](assets/certifications.md)
 
 ---
-
-*This repository is regularly updated with the latest version of my professional information.*
+*This resume is version controlled and regularly updated. For the most current version, please check the timestamp above or contact me directly.*
