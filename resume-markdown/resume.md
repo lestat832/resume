@@ -63,8 +63,16 @@ Product Leader with 10+ years of experience delivering high-growth digital solut
 
 ## Volunteer Experience
 
-### Operations Lead | PMA.LA TechConnect 2025
-*Product Management Alliance - Los Angeles Chapter*
+### LA Tech Connect Conference Lead | Product Managers Association of Los Angeles
+*Mar 2025 - Jun 2025*
+
+### Mentor | Product Managers Association of Los Angeles
+*Oct 2021 - Nov 2023*
+- PMA.LA Mentorship Program
+
+### Growth Hacker, ie Website / SEO / Paid Acquisition | California Triathlon
+*Jan 2018 - Jan 2021*
+- Health sector volunteer work focused on digital growth strategies
 
 ## Key Projects
 - **Starring You AI:** AI-powered video personalization generating 400K+ user creations in 6 months
