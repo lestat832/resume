@@ -57,9 +57,22 @@ Product Leader with 10+ years of experience delivering high-growth digital solut
 
 ## Skills
 
-**Product Management:** Data-driven experimentation, AI-powered features, full product lifecycle management, cross-functional team leadership
-**Technical:** React Native, web/mobile platforms, analytics integration, workflow automation
-**Leadership:** Stakeholder alignment, fast-paced delivery, turning ambiguity into actionable plans
+**Product Management:**
+- Data-driven experimentation
+- AI-powered features
+- Full product lifecycle management
+- Cross-functional team leadership
+
+**Technical:**
+- React Native
+- Web/mobile platforms
+- Analytics integration
+- Workflow automation
+
+**Leadership:**
+- Stakeholder alignment
+- Fast-paced delivery
+- Turning ambiguity into actionable plans
 
 ## Volunteer Experience
 

@@ -143,6 +143,25 @@ li {
     margin-bottom: 0.5rem;
 }
 
+.skill-category ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.skill-category li {
+    margin-bottom: 0.4rem;
+    padding-left: 1.2rem;
+    position: relative;
+}
+
+.skill-category li:before {
+    content: "•";
+    position: absolute;
+    left: 0;
+    color: #3498db;
+}
+
 /* Projects Section */
 .projects-list {
     list-style: none;
