@@ -18,7 +18,7 @@
 - **Podcast:** "[Episode Title]" on [Podcast Name] ([Date])
 
 ## Professional Profiles
-- **LinkedIn:** [Full LinkedIn URL]
-- **GitHub:** [GitHub profile URL]
+- **LinkedIn:** https://www.linkedin.com/in/marc-geraldez/
+- **GitHub:** https://github.com/lestat832
 - **Portfolio Site:** [Personal website URL]
 - **Medium/Blog:** [Writing platform URL]

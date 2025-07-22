@@ -1,5 +1,5 @@
 # Marc Geraldez
-**Product Leader** | Los Angeles, CA | marc.geraldez@gmail.com | (310) 597-3648 | [linkedin.com/in/marc-geraldez](https://www.linkedin.com/in/marc-geraldez/)
+**Product Leader** | Los Angeles, CA | marc.geraldez@gmail.com | (310) 597-3648 | [linkedin.com/in/marc-geraldez](https://www.linkedin.com/in/marc-geraldez/) | [github.com/lestat832](https://github.com/lestat832)
 
 ## Professional Summary
 Product Leader with 10+ years of experience delivering high-growth digital solutions across digital media, edtech and entertainment. Proven track record of using data, experimentation and AI-driven features to accelerate user engagement, retention and revenue. Skilled in leading full product lifecycles, aligning cross-functional teams and launching intuitive, scalable experiences on web and mobile.
