@@ -5,7 +5,7 @@
   - [x] marc-geraldez-resume.pdf (standard version)
   - [x] marc-geraldez-resume-print.pdf (print-optimized version)
 - [ ] Add profile photo to `resume-web/assets/profile-photo.jpg`
-- [ ] Configure GitHub Pages for web resume hosting (instructions provided - just follow steps in GitHub settings)
+- [x] Configure GitHub Pages for web resume hosting
 - [ ] Add repository description and topics in GitHub settings
 - [ ] Pin repository to GitHub profile
 
