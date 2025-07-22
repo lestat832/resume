@@ -20,5 +20,3 @@
 ## Professional Profiles
 - **LinkedIn:** https://www.linkedin.com/in/marc-geraldez/
 - **GitHub:** https://github.com/lestat832
-- **Portfolio Site:** [Personal website URL]
-- **Medium/Blog:** [Writing platform URL]
