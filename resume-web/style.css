@@ -143,6 +143,25 @@ li {
     margin-bottom: 0.5rem;
 }
 
+/* Projects Section */
+.projects-list {
+    list-style: none;
+    padding: 0;
+}
+
+.projects-list li {
+    margin-bottom: 1rem;
+    padding-left: 1.5rem;
+    position: relative;
+}
+
+.projects-list li:before {
+    content: "▸";
+    position: absolute;
+    left: 0;
+    color: #3498db;
+}
+
 /* Footer */
 footer {
     background-color: #34495e;
