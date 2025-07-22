@@ -5,16 +5,16 @@
   - [x] marc-geraldez-resume.pdf (standard version)
   - [x] marc-geraldez-resume-print.pdf (print-optimized version)
 - [ ] Add profile photo to `resume-web/assets/profile-photo.jpg`
-- [ ] Configure GitHub Pages for web resume hosting
+- [ ] Configure GitHub Pages for web resume hosting (instructions provided - just follow steps in GitHub settings)
 - [ ] Add repository description and topics in GitHub settings
 - [ ] Pin repository to GitHub profile
 
 ## 📝 Content Updates
-- [ ] Update portfolio links with actual URLs in `assets/portfolio-links.md`
-  - [ ] LinkedIn: https://www.linkedin.com/in/marc-geraldez/
-  - [ ] GitHub profile URL
-  - [ ] Portfolio site URL (if available)
-  - [ ] Medium/Blog URL (if available)
+- [x] Update portfolio links with actual URLs in `assets/portfolio-links.md`
+  - [x] LinkedIn: https://www.linkedin.com/in/marc-geraldez/
+  - [x] GitHub profile URL
+  - [x] Portfolio site URL (removed - not applicable)
+  - [x] Medium/Blog URL (removed - not applicable)
 - [ ] Add specific responsibilities for PMA.LA TechConnect 2025 Operations Lead role
 - [ ] Create the following case study repositories:
   - [ ] starring-you-ai-breakdown
@@ -23,7 +23,7 @@
   - [ ] onboarding-flows-repo
   - [ ] jj-invites-launch
 - [ ] Create `assets/certifications.md` file with education details and certifications
-- [ ] Update web resume HTML with actual content (currently has placeholders)
+- [x] Update web resume HTML with actual content (completed with full professional information)
 
 ## 🚀 Future Enhancements
 - [ ] Add print-specific CSS media queries for web version
@@ -50,7 +50,7 @@
 - [ ] Update volunteer activities as needed
 
 ## Notes
-- **Last updated:** July 13, 2025
+- **Last updated:** July 21, 2025
 - **Priority items:** Marked with ⭐
 - **Repository URL:** https://github.com/lestat832/resume
 - **Next review date:** October 2025
