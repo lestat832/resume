@@ -43,7 +43,7 @@ Real projects with measurable business impact:
 
 ### Portfolio Projects
 Strategic analysis and conceptual framework development:
-- [AspireAssist Product Strategy](portfolio-projects/aspire-assist/) - Comprehensive product strategy and go-to-market analysis
+- [Aspire Assist Product Strategy](portfolio-projects/aspire-assist/) - Comprehensive product strategy and go-to-market analysis
 
 [View All Portfolio Projects →](portfolio-projects/)
 
