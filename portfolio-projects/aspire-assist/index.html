@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AspireAssist Product Strategy - Case Study | Marc Geraldez</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <nav class="top-nav">
+        <a href="../../" class="back-link">← Back to Resume</a>
+        <a href="../../portfolio-projects/" class="nav-link">All Portfolio Projects</a>
+        <a href="../../case-studies/" class="nav-link">Work Experience</a>
+        <a href="aspire-assist.pdf" class="download-link" download>📄 Download PDF</a>
+    </nav>
+
+    <div class="pdf-container">
+        <div class="pdf-header">
+            <h1>AspireAssist Product Strategy</h1>
+            <p>Strategic Product Framework & Go-to-Market Analysis | Interview Case Study</p>
+            <div class="project-badge">Portfolio Project</div>
+        </div>
+
+        <!-- Primary PDF Viewer -->
+        <div class="pdf-viewer">
+            <embed src="aspire-assist.pdf" type="application/pdf" width="100%" height="100%">
+            
+            <!-- Fallback for browsers without PDF support -->
+            <div class="pdf-fallback">
+                <div class="fallback-content">
+                    <h2>PDF Viewer Not Supported</h2>
+                    <p>Your browser doesn't support inline PDF viewing. Please download the case study to view it:</p>
+                    <a href="aspire-assist.pdf" class="download-btn" download>📄 Download Case Study PDF</a>
+                    
+                    <!-- Quick overview for fallback -->
+                    <div class="quick-overview">
+                        <h3>Project Overview</h3>
+                        <div class="overview-stats">
+                            <div class="stat">
+                                <strong>Strategic Framework</strong>
+                                <span>Product positioning & market analysis</span>
+                            </div>
+                            <div class="stat">
+                                <strong>Go-to-Market</strong>
+                                <span>Launch strategy & user acquisition</span>
+                            </div>
+                            <div class="stat">
+                                <strong>Interview Case</strong>
+                                <span>Conceptual product strategy work</span>
+                            </div>
+                        </div>
+                        <p><strong>Objective:</strong> Develop comprehensive product strategy for AspireAssist health platform</p>
+                        <p><strong>Approach:</strong> Market research, competitive analysis, user journey mapping, and strategic recommendations</p>
+                        <p><strong>Deliverable:</strong> Complete product strategy framework with actionable implementation plan</p>
+                        
+                        <div class="disclaimer">
+                            <p><strong>Note:</strong> This is a conceptual case study created for interview purposes, demonstrating strategic thinking and product management methodology.</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <footer class="pdf-footer">
+        <nav>
+            <a href="../../">Back to Resume</a>
+            <span>•</span>
+            <a href="../../portfolio-projects/">View All Portfolio Projects</a>
+            <span>•</span>
+            <a href="../../case-studies/">View Work Experience</a>
+            <span>•</span>
+            <a href="mailto:marc.geraldez@gmail.com">Contact Me</a>
+        </nav>
+        <p>&copy; 2025 Marc Geraldez. All rights reserved.</p>
+    </footer>
+
+    <script>
+        // Check if PDF is supported and show appropriate content
+        document.addEventListener('DOMContentLoaded', function() {
+            const embed = document.querySelector('embed');
+            const fallback = document.querySelector('.pdf-fallback');
+            
+            // Simple PDF support detection
+            if (!navigator.mimeTypes['application/pdf']) {
+                embed.style.display = 'none';
+                fallback.style.display = 'block';
+            }
+        });
+    </script>
+</body>
+</html>

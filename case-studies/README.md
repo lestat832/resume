@@ -1,4 +1,4 @@
-# Case Studies
+# Professional Experience Case Studies
 
 Welcome to my portfolio of detailed case studies showcasing key projects and achievements throughout my product management career.
 
