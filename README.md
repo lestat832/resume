@@ -30,12 +30,14 @@ This repository contains my current resume in multiple formats, optimized for di
 **Leadership:** Cross-functional team alignment, stakeholder management, fast-paced delivery  
 **Industry:** Digital media, EdTech, entertainment, DTC platforms, subscription models
 
-## Featured Projects
-Links to detailed project breakdowns in other repositories:
-- [Starring You AI Launch](../starring-you-ai-breakdown) - Deep dive into AI-powered video personalization feature
-- [ReadYourStory Revenue Growth](../readyourstory-case-study) - How process automation drove 134% revenue increase
-- [Face Org Feature](../face-org-feature-breakdown) - User profile feature that improved retention by 28%
-- [UX Onboarding Flows](../onboarding-flows-repo) - User experience design samples across platforms
+## Featured Projects & Case Studies
+Detailed project breakdowns with comprehensive case studies:
+- [Starring You AI Launch](case-studies/starring-you-ai/) - Deep dive into AI-powered video personalization feature
+- [ReadYourStory Revenue Growth](case-studies/#readyourstory-revenue-growth) - How process automation drove 134% revenue increase
+- [Face Org Feature](case-studies/#face-org-feature) - User profile feature that improved retention by 28%
+- [UX Onboarding Flows](case-studies/#ux-onboarding-flows) - User experience design samples across platforms
+
+[View All Case Studies →](case-studies/)
 
 ## Additional Resources
 - 📋 [Extended Portfolio Links](assets/portfolio-links.md)

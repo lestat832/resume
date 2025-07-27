@@ -1,11 +1,12 @@
 # Extended Portfolio Links
 
-## GitHub Repositories
-- [Starring You AI Breakdown](../starring-you-ai-breakdown) - Deep dive into AI-powered video personalization feature launch
-- [ReadYourStory Case Study](../readyourstory-case-study) - Process automation that drove 134% revenue growth
-- [Face Org Feature Analysis](../face-org-feature-breakdown) - User profile feature improving retention by 28%
-- [UX Onboarding Flows](../onboarding-flows-repo) - User experience design samples across JibJab, Scholly, and StoryBots
-- [JJ Invites Launch](../jj-invites-launch) - Fast-tracked product expansion into online invitations
+## Case Studies
+- [Starring You AI](../case-studies/starring-you-ai/) - Deep dive into AI-powered video personalization feature launch
+  - [View Web Version](../case-studies/starring-you-ai/) | [Download PDF](../case-studies/starring-you-ai/starring-you-ai.pdf)
+- [ReadYourStory Case Study](../case-studies/#readyourstory-revenue-growth) - Process automation that drove 134% revenue growth (Coming Soon)
+- [Face Org Feature Analysis](../case-studies/#face-org-feature) - User profile feature improving retention by 28% (Coming Soon)
+- [UX Onboarding Flows](../case-studies/#ux-onboarding-flows) - User experience design samples across JibJab, Scholly, and StoryBots (Coming Soon)
+- [JJ Invites Launch](../case-studies/#jj-invites-launch) - Fast-tracked product expansion into online invitations (Coming Soon)
 
 ## External Portfolio Items
 - **Case Study:** AI Product Strategy - [Link to external case study]
