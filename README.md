@@ -37,7 +37,6 @@ Real projects with measurable business impact:
 - [Starring You AI Launch](case-studies/starring-you-ai/) - Deep dive into AI-powered video personalization feature
 - [ReadYourStory Revenue Growth](case-studies/#readyourstory-revenue-growth) - How process automation drove 134% revenue increase
 - [Face Org Feature](case-studies/#face-org-feature) - User profile feature that improved retention by 28%
-- [UX Onboarding Flows](case-studies/#ux-onboarding-flows) - User experience design samples across platforms
 
 [View All Professional Experience →](case-studies/)
 
