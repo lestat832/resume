@@ -17,7 +17,6 @@ An intuitive AI-powered product that revolutionized personalized video creation,
 ---
 
 ### 📈 ReadYourStory Revenue Growth
-*Coming Soon*
 
 Process automation initiative that drove 134% revenue increase over 2 years.
 
@@ -28,7 +27,6 @@ Process automation initiative that drove 134% revenue increase over 2 years.
 ---
 
 ### 👥 Face Org Feature
-*Coming Soon*
 
 User profile system that improved renewal rates by 28%.
 
@@ -39,24 +37,12 @@ User profile system that improved renewal rates by 28%.
 ---
 
 ### 💌 JJ Invites Launch
-*Coming Soon*
 
 Fast-tracked product expansion into online invitations with tight timeline execution.
 
 - **Role:** Product Manager at JibJab
 - **Timeline:** 2023
 - **Key Achievement:** Seamless midstream integration, on-time launch
-
----
-
-### 🎯 UX Onboarding Flows
-*Coming Soon*
-
-User experience design samples across JibJab, Scholly, and StoryBots platforms.
-
-- **Role:** Product Manager
-- **Timeline:** 2017-2025
-- **Key Achievement:** Improved user activation and retention
 
 ---
 
