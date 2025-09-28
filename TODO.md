@@ -4,10 +4,9 @@
 - [x] Upload PDF versions of resume to `resume-pdf/` directory
   - [x] marc-geraldez-resume.pdf (standard version)
   - [x] marc-geraldez-resume-print.pdf (print-optimized version)
-- [ ] Add profile photo to `resume-web/assets/profile-photo.jpg`
 - [x] Configure GitHub Pages for web resume hosting
-- [ ] Add repository description and topics in GitHub settings
-- [ ] Pin repository to GitHub profile
+- [x] Add repository description and topics in GitHub settings
+- [x] Pin repository to GitHub profile
 
 ## 📝 Content Updates
 - [x] Update portfolio links with actual URLs in `assets/portfolio-links.md`
@@ -18,9 +17,6 @@
 - [ ] Add specific responsibilities for PMA.LA TechConnect 2025 Operations Lead role
 - [ ] Create the following case study repositories:
   - [ ] starring-you-ai-breakdown
-  - [ ] readyourstory-case-study
-  - [ ] face-org-feature-breakdown
-  - [ ] onboarding-flows-repo
   - [ ] jj-invites-launch
 - [ ] Create `assets/certifications.md` file with education details and certifications
 - [x] Update web resume HTML with actual content (completed with full professional information)

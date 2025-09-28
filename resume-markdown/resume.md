@@ -2,12 +2,23 @@
 **Product Leader** | Los Angeles, CA | marc.geraldez@gmail.com | (310) 597-3648 | [linkedin.com/in/marc-geraldez](https://www.linkedin.com/in/marc-geraldez/) | [github.com/lestat832](https://github.com/lestat832)
 
 ## Professional Summary
-Product Leader with 10+ years of experience delivering high-growth digital solutions across digital media, edtech and entertainment. Proven track record of using data, experimentation and AI-driven features to accelerate user engagement, retention and revenue. Skilled in leading full product lifecycles, aligning cross-functional teams and launching intuitive, scalable experiences on web and mobile.
+Product Leader and Co-Founder with 10+ years of experience delivering high-growth digital solutions across digital media, edtech and entertainment. Currently co-founding ScholarTrail, a nonprofit edtech organization democratizing access to scholarships. Proven track record of using data, experimentation and AI-driven features to accelerate user engagement, retention and revenue. Skilled in leading full product lifecycles, aligning cross-functional teams and launching intuitive, scalable experiences on web and mobile.
 
 ## Experience
 
+### Co-Founder / Product | ScholarTrail | May 2025–Present
+*Los Angeles, CA*
+
+*ScholarTrail is a nonprofit edtech organization that matches students to scholarships, without ads or selling their data.*
+
+- Co-led product strategy and roadmap as one of three cofounders, shaping onboarding flow, scholarship matching logic and MVP launch priorities
+- Built and managed the MVP using Claude Code and Lovable, leveraging AI-assisted development to accelerate launch with limited resources
+- Collaborated on launch and growth initiatives including Hotjar surveys, early access campaigns, bootstrapped marketing and a Product Hunt debut
+
 ### Product Manager | JibJab | March 2020–May 2025
 *Los Angeles, CA*
+
+*JibJab is a DTC platform that allows users to create and share personalized videos, Ecards & AI-generated images through a subscription model.*
 
 - Launched Starring You AI, an intuitive AI-powered product that generated over 400K user-created packs within the first 6 months, driving increased user engagement and adoption
 - Spearheaded the fast-tracked launch of JJ Invites, seamlessly integrating into the initiative midstream and navigating tight timelines to achieve ambitious launch date
@@ -21,6 +32,8 @@ Product Leader with 10+ years of experience delivering high-growth digital solut
 ### Product Manager | Scholly | August 2018–February 2020
 *Los Angeles, CA*
 
+*Scholly is a scholarship search platform that helps students find scholarships through intelligent matching.*
+
 - Increased revenue by 37% within 12 months through initiatives such as showcasing value prop, introducing free trial concept and strategic price changes
 - Improved monthly active users (MAU) KPI by 15% in a year through initiatives that kept users engaged with the product
 - Led development efforts for partnerships, growing scholarship and student loan payment awards from $0 to over $200K
@@ -28,11 +41,15 @@ Product Leader with 10+ years of experience delivering high-growth digital solut
 ### Product Manager | StoryBots | January 2017–July 2018
 *Los Angeles, CA*
 
+*StoryBots is an award-winning educational children's brand that creates engaging, curriculum-aligned content across digital, video, and interactive platforms.*
+
 - Managed internal and remote development teams to release a platform that increased users by 61%, sessions by 65% and pageviews by 51%
 - Managed companion apps for Netflix original shows (Ask the StoryBots, StoryBots Super Songs, A StoryBots Christmas) while working on React Native versions for iOS and Android
 
 ### Product Manager | Evolve Media | December 2013–January 2017
 *Los Angeles, CA*
+
+*Evolve Media is a digital media company that owns and operates a portfolio of lifestyle and enthusiast websites, delivering premium content & advertising solutions.*
 
 - Managed a rebuild of proprietary ad operations workflow manager by working with cross-functional stakeholders to improve process, user experience and performance
 - Upgraded a proprietary rich-media build & deploy creative platform to recoup rich media fees and integrate internal analytics solution for more accurate metrics
@@ -41,6 +58,8 @@ Product Leader with 10+ years of experience delivering high-growth digital solut
 
 ### Product Manager | Investor's Business Daily | 2005–2013
 *Los Angeles, CA*
+
+*Investor's Business Daily is a financial news and research organization providing market analysis, stock research and investment education.*
 
 - Spearheaded the redesign and launch of award-winning website that increased pageviews by 50% and grew unique monthly visitors by over 1 million
 - Boosted sales revenue by 30-50% through optimizing and increasing ad inventory

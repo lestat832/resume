@@ -16,26 +16,6 @@ An intuitive AI-powered product that revolutionized personalized video creation,
 
 ---
 
-### 📈 ReadYourStory Revenue Growth
-
-Process automation initiative that drove 134% revenue increase over 2 years.
-
-- **Role:** Product Manager at JibJab
-- **Timeline:** 2020-2022
-- **Key Achievement:** 101% growth Year 1, 134% growth Year 2
-
----
-
-### 👥 Face Org Feature
-
-User profile system that improved renewal rates by 28%.
-
-- **Role:** Product Manager at JibJab
-- **Timeline:** 2021-2022
-- **Key Achievement:** 16% renewal increase Year 1, 28% Year 2
-
----
-
 ### 💌 JJ Invites Launch
 
 Fast-tracked product expansion into online invitations with tight timeline execution.

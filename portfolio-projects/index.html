@@ -1,0 +1,366 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Portfolio Projects | Marc Geraldez</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
+            line-height: 1.6;
+            color: #2c3e50;
+            background: linear-gradient(135deg, #f5f7fa 0%, #c3cfe2 100%);
+            min-height: 100vh;
+        }
+
+        .container {
+            max-width: 900px;
+            margin: 0 auto;
+            padding: 2rem;
+        }
+
+        .header {
+            text-align: center;
+            margin-bottom: 3rem;
+            background: white;
+            padding: 3rem;
+            border-radius: 15px;
+            box-shadow: 0 10px 30px rgba(0,0,0,0.1);
+        }
+
+        .header h1 {
+            font-size: 3rem;
+            margin-bottom: 1rem;
+            background: linear-gradient(135deg, #e74c3c, #f39c12);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            background-clip: text;
+        }
+
+        .header p {
+            font-size: 1.2rem;
+            color: #7f8c8d;
+            margin-bottom: 2rem;
+        }
+
+        .nav-links {
+            display: flex;
+            justify-content: center;
+            gap: 1rem;
+            flex-wrap: wrap;
+        }
+
+        .nav-link {
+            display: inline-block;
+            padding: 0.7rem 1.5rem;
+            background: linear-gradient(135deg, #3498db, #2980b9);
+            color: white;
+            text-decoration: none;
+            border-radius: 25px;
+            transition: transform 0.3s ease, box-shadow 0.3s ease;
+        }
+
+        .nav-link:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 5px 15px rgba(52, 152, 219, 0.4);
+        }
+
+        .projects-grid {
+            display: grid;
+            gap: 2rem;
+            margin-bottom: 3rem;
+        }
+
+        .project-card {
+            background: white;
+            padding: 2.5rem;
+            border-radius: 15px;
+            box-shadow: 0 10px 30px rgba(0,0,0,0.1);
+            transition: transform 0.3s ease, box-shadow 0.3s ease;
+            border-left: 5px solid #e74c3c;
+        }
+
+        .project-card:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 15px 40px rgba(0,0,0,0.15);
+        }
+
+        .project-card h3 {
+            font-size: 1.8rem;
+            margin-bottom: 0.5rem;
+            color: #2c3e50;
+        }
+
+        .project-subtitle {
+            font-size: 1.1rem;
+            color: #e74c3c;
+            font-weight: 600;
+            margin-bottom: 1rem;
+        }
+
+        .project-description {
+            margin-bottom: 1.5rem;
+            color: #555;
+        }
+
+        .project-meta {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+            gap: 1rem;
+            margin-bottom: 1.5rem;
+        }
+
+        .meta-item {
+            display: flex;
+            flex-direction: column;
+        }
+
+        .meta-label {
+            font-weight: 600;
+            color: #2c3e50;
+            margin-bottom: 0.2rem;
+        }
+
+        .meta-value {
+            color: #7f8c8d;
+        }
+
+        .project-links {
+            display: flex;
+            gap: 1rem;
+            flex-wrap: wrap;
+        }
+
+        .project-link {
+            display: inline-block;
+            padding: 0.6rem 1.2rem;
+            background: linear-gradient(135deg, #e74c3c, #c0392b);
+            color: white;
+            text-decoration: none;
+            border-radius: 20px;
+            font-size: 0.9rem;
+            transition: transform 0.3s ease, box-shadow 0.3s ease;
+        }
+
+        .project-link:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 5px 15px rgba(231, 76, 60, 0.4);
+        }
+
+        .info-section {
+            background: white;
+            padding: 2.5rem;
+            border-radius: 15px;
+            box-shadow: 0 10px 30px rgba(0,0,0,0.1);
+            margin-bottom: 2rem;
+        }
+
+        .info-section h2 {
+            font-size: 1.8rem;
+            margin-bottom: 1.5rem;
+            color: #2c3e50;
+            border-bottom: 3px solid #e74c3c;
+            padding-bottom: 0.5rem;
+            display: inline-block;
+        }
+
+        .differentiators {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+            gap: 2rem;
+            margin: 2rem 0;
+        }
+
+        .diff-card {
+            padding: 1.5rem;
+            background: #f8f9fa;
+            border-radius: 10px;
+            border-left: 4px solid #e74c3c;
+        }
+
+        .diff-title {
+            font-weight: 600;
+            color: #2c3e50;
+            margin-bottom: 0.5rem;
+        }
+
+        .categories {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+            gap: 1.5rem;
+            margin: 2rem 0;
+        }
+
+        .category {
+            padding: 1.2rem;
+            background: linear-gradient(135deg, #ecf0f1, #bdc3c7);
+            border-radius: 10px;
+            text-align: center;
+        }
+
+        .category h4 {
+            color: #2c3e50;
+            margin-bottom: 0.5rem;
+        }
+
+        .footer {
+            text-align: center;
+            padding: 2rem;
+            background: white;
+            border-radius: 15px;
+            box-shadow: 0 10px 30px rgba(0,0,0,0.1);
+        }
+
+        .footer-links {
+            display: flex;
+            justify-content: center;
+            gap: 1rem;
+            margin-bottom: 1rem;
+            flex-wrap: wrap;
+        }
+
+        .footer-link {
+            color: #3498db;
+            text-decoration: none;
+            transition: color 0.3s ease;
+        }
+
+        .footer-link:hover {
+            color: #e74c3c;
+        }
+
+        .badge {
+            display: inline-block;
+            background: linear-gradient(135deg, #f39c12, #e67e22);
+            color: white;
+            padding: 0.3rem 0.8rem;
+            border-radius: 15px;
+            font-size: 0.8rem;
+            font-weight: 600;
+            margin-bottom: 1rem;
+        }
+
+        @media (max-width: 768px) {
+            .container {
+                padding: 1rem;
+            }
+            
+            .header h1 {
+                font-size: 2rem;
+            }
+            
+            .project-card, .info-section {
+                padding: 1.5rem;
+            }
+            
+            .nav-links, .project-links, .footer-links {
+                justify-content: center;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <header class="header">
+            <h1>Portfolio Projects</h1>
+            <p>Interview case studies and conceptual work demonstrating strategic thinking, product methodology, and analytical capabilities.</p>
+            <div class="nav-links">
+                <a href="../" class="nav-link">← Back to Resume</a>
+                <a href="../case-studies/" class="nav-link">Professional Experience</a>
+                <a href="mailto:marc.geraldez@gmail.com" class="nav-link">Contact</a>
+            </div>
+        </header>
+
+        <div class="projects-grid">
+            <div class="project-card">
+                <div class="badge">Interview Case Study</div>
+                <h3>🎯 AspireAssist Product Strategy</h3>
+                <div class="project-subtitle">Strategic Product Framework & Go-to-Market Analysis</div>
+                <div class="project-description">
+                    A comprehensive product strategy case study analyzing market positioning, competitive landscape, and go-to-market approach for a health platform concept.
+                </div>
+                
+                <div class="project-meta">
+                    <div class="meta-item">
+                        <div class="meta-label">Project Type</div>
+                        <div class="meta-value">Interview Case Study</div>
+                    </div>
+                    <div class="meta-item">
+                        <div class="meta-label">Focus</div>
+                        <div class="meta-value">Product strategy, market analysis, strategic framework</div>
+                    </div>
+                    <div class="meta-item">
+                        <div class="meta-label">Deliverable</div>
+                        <div class="meta-value">Complete strategic product plan with implementation roadmap</div>
+                    </div>
+                </div>
+                
+                <div class="project-links">
+                    <a href="aspire-assist/" class="project-link">View Web Version</a>
+                    <a href="aspire-assist/aspire-assist.pdf" class="project-link" download>📄 Download PDF</a>
+                </div>
+            </div>
+        </div>
+
+        <section class="info-section">
+            <h2>About Portfolio Projects</h2>
+            <p>This section contains conceptual work and interview case studies that showcase:</p>
+            
+            <div class="categories">
+                <div class="category">
+                    <h4>🧠 Strategic Thinking</h4>
+                    <p>Market analysis and competitive positioning</p>
+                </div>
+                <div class="category">
+                    <h4>📋 Product Methodology</h4>
+                    <p>Framework development and strategic planning</p>
+                </div>
+                <div class="category">
+                    <h4>📊 Analytical Skills</h4>
+                    <p>Data-driven insights and recommendations</p>
+                </div>
+                <div class="category">
+                    <h4>💬 Communication</h4>
+                    <p>Clear presentation of complex strategic concepts</p>
+                </div>
+            </div>
+        </section>
+
+        <section class="info-section">
+            <h2>Key Differentiators</h2>
+            <div class="differentiators">
+                <div class="diff-card">
+                    <div class="diff-title">Portfolio Projects</div>
+                    <p>Conceptual work, interview case studies, strategic frameworks</p>
+                </div>
+                <div class="diff-card">
+                    <div class="diff-title">Professional Experience</div>
+                    <p>Real projects with actual business impact and measurable results</p>
+                </div>
+            </div>
+            <p style="text-align: center; margin-top: 1.5rem;">
+                <a href="../case-studies/" style="color: #3498db; text-decoration: none; font-weight: 600;">
+                    View Professional Experience Case Studies →
+                </a>
+            </p>
+        </section>
+
+        <footer class="footer">
+            <div class="footer-links">
+                <a href="../" class="footer-link">← Back to Resume</a>
+                <span style="color: #bdc3c7;">•</span>
+                <a href="../case-studies/" class="footer-link">View Professional Experience</a>
+                <span style="color: #bdc3c7;">•</span>
+                <a href="mailto:marc.geraldez@gmail.com" class="footer-link">Contact Me</a>
+            </div>
+            <p style="color: #7f8c8d; margin-top: 1rem;">&copy; 2025 Marc Geraldez. All rights reserved.</p>
+        </footer>
+    </div>
+</body>
+</html>

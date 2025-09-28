@@ -35,8 +35,6 @@ This repository contains my current resume in multiple formats, optimized for di
 ### Professional Experience
 Real projects with measurable business impact:
 - [Starring You AI Launch](case-studies/starring-you-ai/) - Deep dive into AI-powered video personalization feature
-- [ReadYourStory Revenue Growth](case-studies/#readyourstory-revenue-growth) - How process automation drove 134% revenue increase
-- [Face Org Feature](case-studies/#face-org-feature) - User profile feature that improved retention by 28%
 
 [View All Professional Experience →](case-studies/)
 

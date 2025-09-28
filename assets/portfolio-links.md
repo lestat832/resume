@@ -3,9 +3,6 @@
 ## Professional Experience Case Studies
 - [Starring You AI](../case-studies/starring-you-ai/) - Deep dive into AI-powered video personalization feature launch
   - [View Web Version](../case-studies/starring-you-ai/) | [Download PDF](../case-studies/starring-you-ai/starring-you-ai.pdf)
-- [ReadYourStory Case Study](../case-studies/#readyourstory-revenue-growth) - Process automation that drove 134% revenue growth (Coming Soon)
-- [Face Org Feature Analysis](../case-studies/#face-org-feature) - User profile feature improving retention by 28% (Coming Soon)
-- [UX Onboarding Flows](../case-studies/#ux-onboarding-flows) - User experience design samples across JibJab, Scholly, and StoryBots (Coming Soon)
 - [JJ Invites Launch](../case-studies/#jj-invites-launch) - Fast-tracked product expansion into online invitations (Coming Soon)
 
 [View All Professional Experience →](../case-studies/)
