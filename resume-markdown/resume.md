@@ -6,6 +6,17 @@ Product Leader and Co-Founder with 10+ years of experience delivering high-growt
 
 ## Experience
 
+### Development Partner | Our Appologies LLC | August 2025–Present
+*Los Angeles, CA*
+
+*Our Appologies is a software studio that partners with creators, entrepreneurs and builders to design, build and launch original apps including [Out of Pocket: Phone Gone Wild](https://apps.apple.com/us/app/out-of-pocket-phone-gone-wild/id6756274838).*
+
+- Partnered on product vision and gameplay strategy while leading all iOS development hands-on from concept through App Store release
+- Designed and built the SwiftUI app end to end, owning core gameplay systems, gesture detection and overall app architecture
+- Implemented multiple game modes including reaction-based play, memory sequences and pass-and-play experiences
+- Instrumented analytics across gameplay and gesture outcomes to support tuning, balancing and iteration
+- Established monetization foundations and internal tooling to support fast iteration, testing and release readiness
+
 ### Co-Founder / Product | ScholarTrail | May 2025–Present
 *Los Angeles, CA*
 
@@ -107,6 +118,7 @@ Product Leader and Co-Founder with 10+ years of experience delivering high-growt
 - Health sector volunteer work focused on digital growth strategies
 
 ## Key Projects
+- **Out of Pocket Game:** iOS gesture game with 4 play modes and 14 gestures, launched on App Store
 - **Starring You AI:** AI-powered video personalization generating 400K+ user creations in 6 months
 - **JJ Invites:** Fast-tracked product expansion into online invitations with tight timeline execution
 - **ReadYourStory Growth:** Process automation driving 134% revenue increase over 2 years
