@@ -40,6 +40,7 @@ Real projects with measurable business impact:
 
 ### Portfolio Projects
 Strategic analysis and conceptual framework development:
+- [Out of Pocket: Phone Gone Wild](portfolio-projects/out-of-pocket/) - iOS gesture game built with SwiftUI
 - [Aspire Assist Product Strategy](portfolio-projects/aspire-assist/) - Comprehensive product strategy and go-to-market analysis
 
 [View All Portfolio Projects →](portfolio-projects/)
