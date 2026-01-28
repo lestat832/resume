@@ -18,9 +18,10 @@ This repository contains my current resume in multiple formats, optimized for di
 - **Web Version:** Interactive with hover effects and responsive design
 - **Markdown Version:** Easy to read on mobile and accessible
 
-*Last Updated: July 2025*
+*Last Updated: January 2026*
 
 ## Experience Highlights
+- 🎮 **iOS Game Launch:** Built and launched Out of Pocket: Phone Gone Wild on App Store with SwiftUI
 - 🚀 **AI Product Launch:** Launched Starring You AI generating 400K+ user-created packs in 6 months
 - 💡 **Revenue Growth:** Increased ReadYourStory revenue by 101% (Year 1) and 134% (Year 2)
 - 📈 **User Engagement:** Improved renewal rates by 16% (Year 1) and 28% (Year 2) with Face Org feature
