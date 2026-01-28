@@ -8,7 +8,7 @@
 
 ## Quick Access
 - 📄 **[Download PDF Resume](resume-pdf/marc-geraldez-resume.pdf)**
-- 🌐 **[View Web Version](resume-web/index.html)** (GitHub Pages)
+- 🌐 **[View Web Version](https://lestat832.github.io/resume/resume-web/)** (GitHub Pages)
 - 📱 **[Mobile-Friendly Version](resume-markdown/resume.md)**
 
 ## About This Resume
