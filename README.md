@@ -18,7 +18,7 @@ This repository contains my current resume in multiple formats, optimized for di
 - **Web Version:** Interactive with hover effects and responsive design
 - **Markdown Version:** Easy to read on mobile and accessible
 
-*Last Updated: January 2026*
+*Last Updated: February 2026*
 
 ## Experience Highlights
 - 🎮 **iOS Game Launch:** Built and launched Out of Pocket: Phone Gone Wild on App Store with SwiftUI
@@ -41,15 +41,13 @@ Real projects with measurable business impact:
 
 ### Portfolio Projects
 Strategic analysis and conceptual framework development:
-- [Out of Pocket: Phone Gone Wild](portfolio-projects/out-of-pocket/) - iOS gesture game built with SwiftUI
+- [Out of Pocket: Phone Gone Wild](portfolio-projects/out-of-pocket/) - iOS gesture game built with SwiftUI | [V1 Design Gallery](portfolio-projects/out-of-pocket/v1-design/)
 - [Aspire Assist Product Strategy](portfolio-projects/aspire-assist/) - Comprehensive product strategy and go-to-market analysis
 
 [View All Portfolio Projects →](portfolio-projects/)
 
 ## Additional Resources
 - 📋 [Extended Portfolio Links](assets/portfolio-links.md)
-- 🤝 [Professional References](assets/references.md)
-- 📚 [Certifications & Education Details](assets/certifications.md)
 
 ---
 *This resume is version controlled and regularly updated. For the most current version, please check the timestamp above or contact me directly.*

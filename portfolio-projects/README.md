@@ -4,6 +4,18 @@ This section showcases interview case studies and conceptual work that demonstra
 
 ## Featured Portfolio Projects
 
+### 🎮 [Out of Pocket: Phone Gone Wild](out-of-pocket/)
+**iOS Gesture Game | SwiftUI**
+
+A fast-paced gesture game featuring 4 play modes, 14 gestures, and multiplayer experiences. Built end-to-end with SwiftUI and launched on the App Store.
+
+- **Project Type:** Live iOS App
+- **Tech Stack:** SwiftUI, iOS 17+, Analytics
+- **Role:** Development Partner — Full iOS ownership
+- [View Project](out-of-pocket/) | [V1 Design Gallery](out-of-pocket/v1-design/) | [📱 App Store](https://apps.apple.com/us/app/out-of-pocket-phone-gone-wild/id6756274838)
+
+---
+
 ### 🎯 [AspireAssist Product Strategy](aspire-assist/)
 **Strategic Product Framework & Go-to-Market Analysis**
 
