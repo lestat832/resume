@@ -13,16 +13,6 @@
 
 [View All Portfolio Projects →](../portfolio-projects/)
 
-## External Portfolio Items
-- **Case Study:** AI Product Strategy - [Link to external case study]
-- **Article:** "Data-Driven Product Management in EdTech" - [Link to blog post/article]
-- **Presentation:** Product Leadership Best Practices - [Link to presentation]
-
-## Speaking & Publications
-- **Conference Talk:** "[Title]" at [Event] ([Date])
-- **Article:** "[Title]" in [Publication] ([Date])
-- **Podcast:** "[Episode Title]" on [Podcast Name] ([Date])
-
 ## Professional Profiles
 - **LinkedIn:** https://www.linkedin.com/in/marc-geraldez/
 - **GitHub:** https://github.com/lestat832
